@@ -18,5 +18,5 @@ yarn install
 yarn start
 ```
 
-# Video
+# Watch the Video on Youtube
 [![Watch the video](https://www.techadvisor.co.uk/cmsdata/features/3681165/youtube-logo-png-2069_thumb800.png)](https://youtu.be/uPv6OyyO6Hw)

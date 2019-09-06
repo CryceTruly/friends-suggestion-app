@@ -19,4 +19,4 @@ yarn start
 ```
 
 # Video
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://www.techadvisor.co.uk/cmsdata/features/3681165/youtube-logo-png-2069_thumb800.png)](https://youtu.be/uPv6OyyO6Hw)
